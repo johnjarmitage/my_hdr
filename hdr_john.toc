@@ -7,26 +7,26 @@
 \contentsline {subsection}{\numberline {2.2.2}East African Rift}{9}{subsection.2.2.2}%
 \contentsline {subsection}{\numberline {2.2.3}Iceland}{13}{subsection.2.2.3}%
 \contentsline {subsection}{\numberline {2.2.4}La Réunion}{15}{subsection.2.2.4}%
-\contentsline {section}{\numberline {2.3}Surface Processes}{15}{section.2.3}%
+\contentsline {section}{\numberline {2.3}Surface Processes}{16}{section.2.3}%
 \contentsline {subsection}{\numberline {2.3.1}A simplified model of surface processes}{16}{subsection.2.3.1}%
 \contentsline {subsection}{\numberline {2.3.2}Eocene Escanilla sedimentary system, Spain}{20}{subsection.2.3.2}%
 \contentsline {subsection}{\numberline {2.3.3}Book Cliffs, USA}{21}{subsection.2.3.3}%
 \contentsline {section}{\numberline {2.4}Predicting geological observations}{23}{section.2.4}%
-\contentsline {section}{\numberline {2.5}Summary}{23}{section.2.5}%
+\contentsline {section}{\numberline {2.5}Summary}{24}{section.2.5}%
 \contentsline {chapter}{\numberline {3}Perspectives}{25}{chapter.3}%
 \contentsline {section}{\numberline {3.1}Short-Term Research Perspectives}{25}{section.3.1}%
-\contentsline {section}{\numberline {3.2}Long-Term Research Perspecitves}{25}{section.3.2}%
-\contentsline {chapter}{\numberline {4}Rèsumé}{27}{chapter.4}%
-\contentsline {section}{Education}{27}{section*.3}%
-\contentsline {section}{Employment History}{27}{section*.4}%
-\contentsline {section}{Funding}{28}{section*.5}%
-\contentsline {section}{Awards}{28}{section*.6}%
-\contentsline {section}{PhD Supervision}{29}{section*.7}%
-\contentsline {section}{Masters and Undergraduate Supervision}{29}{section*.8}%
-\contentsline {section}{Teaching}{29}{section*.9}%
-\contentsline {section}{Selected Invited Presentations}{29}{section*.10}%
-\contentsline {section}{Selected Oral Conference Presentations}{30}{section*.11}%
-\contentsline {section}{Invited Seminars}{30}{section*.12}%
-\contentsline {section}{List of publications}{31}{section*.13}%
-\contentsline {chapter}{\numberline {A}Example Publications Part 1: Mantle}{35}{appendix.A}%
-\contentsline {chapter}{\numberline {B}Example Publications Part 2: Surface}{89}{appendix.B}%
+\contentsline {section}{\numberline {3.2}Long-Term Research Perspectives}{26}{section.3.2}%
+\contentsline {chapter}{\numberline {4}Rèsumé}{29}{chapter.4}%
+\contentsline {section}{Education}{29}{section*.3}%
+\contentsline {section}{Employment History}{29}{section*.4}%
+\contentsline {section}{Funding}{30}{section*.5}%
+\contentsline {section}{Awards}{30}{section*.6}%
+\contentsline {section}{PhD Supervision}{31}{section*.7}%
+\contentsline {section}{Masters and Undergraduate Supervision}{31}{section*.8}%
+\contentsline {section}{Teaching}{31}{section*.9}%
+\contentsline {section}{Selected Invited Presentations}{31}{section*.10}%
+\contentsline {section}{Selected Oral Conference Presentations}{32}{section*.11}%
+\contentsline {section}{Invited Seminars}{32}{section*.12}%
+\contentsline {section}{List of publications}{33}{section*.13}%
+\contentsline {chapter}{\numberline {A}Example Publications Part 1: Mantle}{37}{appendix.A}%
+\contentsline {chapter}{\numberline {B}Example Publications Part 2: Surface}{91}{appendix.B}%

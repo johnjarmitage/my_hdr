@@ -3,69 +3,46 @@ Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
 The top-level auxiliary file: hdr_john.aux
 The style file: apalike.bst
 Database file #1: ../../ref.bib
-Warning--I didn't find a database entry for "mazzulo-etal-2019"
-Warning--I didn't find a database entry for "bastow-etal-??"
-Warning--I didn't find a database entry for "rooney-etal-2010"
-Warning--I didn't find a database entry for "herberg-??"
-Warning--I didn't find a database entry for "fitton-??"
-Warning--I didn't find a database entry for "armitage-collier-2017"
-Warning--I didn't find a database entry for "civiero-etal-2019"
-Warning--I didn't find a database entry for "hewitt-??"
-Warning--I didn't find a database entry for "armitage-etal-grl-2019"
-Warning--I didn't find a database entry for "franken-etal-2020"
-Warning--I didn't find a database entry for "armitage-etal-eosl-2015"
-Warning--I didn't find a database entry for "karenan-etal-2009"
-Warning--I didn't find a database entry for "chang-vanderlee-2011"
-Warning--I didn't find a database entry for "hammond-etal-203"
-Warning--I didn't find a database entry for "emry-etal-2019"
-Warning--I didn't find a database entry for "forsyth-etal-1998"
-Warning--I didn't find a database entry for "rychert-etal-2015"
-Warning--I didn't find a database entry for "rychert-etal-2018"
-Warning--I didn't find a database entry for "jull-996"
-Warning--I didn't find a database entry for "sinton-etal-2005"
-Warning--I didn't find a database entry for "eksinchol-etal-2019"
-Warning--I didn't find a database entry for "huybers-2009"
-Warning--I didn't find a database entry for "mazzulo-etal-2018"
-Warning--I didn't find a database entry for "armitage-2019"
-You've used 48 entries,
+Warning--I didn't find a database entry for "devauchelle-etal-2017"
+You've used 109 entries,
             1935 wiz_defined-function locations,
-            803 strings with 13720 characters,
-and the built_in function-call counts, 20890 in all, are:
-= -- 1990
-> -- 1061
-< -- 20
-+ -- 387
-- -- 367
-* -- 1864
-:= -- 3741
-add.period$ -- 180
-call.type$ -- 48
-change.case$ -- 421
-chr.to.int$ -- 46
-cite$ -- 48
-duplicate$ -- 680
-empty$ -- 1324
-format.name$ -- 433
-if$ -- 4026
-int.to.chr$ -- 3
+            1172 strings with 26396 characters,
+and the built_in function-call counts, 48533 in all, are:
+= -- 4654
+> -- 2397
+< -- 54
++ -- 867
+- -- 820
+* -- 4277
+:= -- 8595
+add.period$ -- 418
+call.type$ -- 109
+change.case$ -- 937
+chr.to.int$ -- 104
+cite$ -- 109
+duplicate$ -- 1613
+empty$ -- 3147
+format.name$ -- 977
+if$ -- 9484
+int.to.chr$ -- 6
 int.to.str$ -- 0
-missing$ -- 48
-newline$ -- 277
-num.names$ -- 148
-pop$ -- 289
+missing$ -- 108
+newline$ -- 630
+num.names$ -- 345
+pop$ -- 641
 preamble$ -- 1
-purify$ -- 421
+purify$ -- 937
 quote$ -- 0
-skip$ -- 525
+skip$ -- 1234
 stack$ -- 0
-substring$ -- 1357
-swap$ -- 65
-text.length$ -- 4
+substring$ -- 3293
+swap$ -- 187
+text.length$ -- 15
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 288
+type$ -- 654
 warning$ -- 0
-while$ -- 133
+while$ -- 323
 width$ -- 0
-write$ -- 695
-(There were 24 warnings)
+write$ -- 1597
+(There was 1 warning)
