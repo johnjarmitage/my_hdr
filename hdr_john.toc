@@ -5,12 +5,12 @@
 \contentsline {section}{\numberline {2.2}Mantle Processes}{5}{section.2.2}%
 \contentsline {subsection}{\numberline {2.2.1}A simplified model of decompression melting}{6}{subsection.2.2.1}%
 \contentsline {subsection}{\numberline {2.2.2}East African Rift}{9}{subsection.2.2.2}%
-\contentsline {subsection}{\numberline {2.2.3}Iceland}{13}{subsection.2.2.3}%
+\contentsline {subsection}{\numberline {2.2.3}Iceland}{14}{subsection.2.2.3}%
 \contentsline {subsection}{\numberline {2.2.4}La Réunion}{15}{subsection.2.2.4}%
 \contentsline {section}{\numberline {2.3}Surface Processes}{16}{section.2.3}%
-\contentsline {subsection}{\numberline {2.3.1}A simplified model of surface processes}{16}{subsection.2.3.1}%
+\contentsline {subsection}{\numberline {2.3.1}A simplified model of surface processes}{17}{subsection.2.3.1}%
 \contentsline {subsection}{\numberline {2.3.2}Eocene Escanilla sedimentary system, Spain}{20}{subsection.2.3.2}%
-\contentsline {subsection}{\numberline {2.3.3}Book Cliffs, USA}{21}{subsection.2.3.3}%
+\contentsline {subsection}{\numberline {2.3.3}Book Cliffs, USA}{22}{subsection.2.3.3}%
 \contentsline {section}{\numberline {2.4}Predicting geological observations}{23}{section.2.4}%
 \contentsline {section}{\numberline {2.5}Summary}{24}{section.2.5}%
 \contentsline {chapter}{\numberline {3}Perspectives}{25}{chapter.3}%

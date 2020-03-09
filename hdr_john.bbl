@@ -15,8 +15,8 @@ Allen, P.~A. and Armitage, J.~J. (2012).
 \newblock {\em Tectonics}, 38:641--665.
 \newblock doi: 10.1029/2018TC00534.
 
-\bibitem[Armitage, 09]{armitage-2019}
-Armitage, J.~J. (09).
+\bibitem[Armitage, 2019]{armitage-2019}
+Armitage, J.~J. (2019).
 \newblock Short communication: flow as distributed lines within the landscape.
 \newblock {\em Earth Surface Dynamics}, 7:67--75.
 \newblock doi: 10.5194/esurf-7-67-2019.
@@ -264,6 +264,13 @@ Eksinchol, I., Rudge, J.~F., and Maclennan, J. (2019).
   deglaciation.
 \newblock {\em Geochemistry, Geophysics, Geosystems}, 20:2585--2605.
 \newblock doi: 0.029/2019GC008222.
+
+\bibitem[Elliot and Spiegelman, 2014]{elliot-2014}
+Elliot, T. and Spiegelman, M. (2014).
+\newblock Melt migration in oceanic crustal production: A u-series perspective.
+\newblock In {\em Treatise on Geochemistry}, pages 543--581. Elsevier, 2nd
+  edition.
+\newblock doi: 10.1016/B978-0-08-095975-7.00317-X.
 
 \bibitem[Emry et~al., 209]{emry-etal-2019}
 Emry, E.~L., Shen, Y., Nyblade, A.~A., Flinders, A., and Bao, X. (209).
@@ -745,6 +752,13 @@ Temme, A. J. A.~M., Armitage, J.~J., Attal, M., {van Gorp}, W., Coulthard,
   automaton landscape evolution model.
 \newblock {\em Geomorphology}, 90:283--301.
 \newblock doi: 10.1016/j.geomorph.2006.10.024.
+
+\bibitem[Weatherley and Katz, 2016]{weatherley-2016}
+Weatherley, S.~M. and Katz, R.~F. (2016).
+\newblock Melt transport rates in heterogeneous mantle beneath mid-ocean
+  ridges.
+\newblock {\em Geochimica et Cosmochimica Acta}, 172:39--54.
+\newblock doi: 10.1016/j.gca.2015.09.029.
 
 \bibitem[Whipple and Tucker, 2002]{whipple-2002}
 Whipple, K.~X. and Tucker, G.~E. (2002).
