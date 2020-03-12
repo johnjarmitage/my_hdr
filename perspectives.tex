@@ -6,11 +6,11 @@ My research outlook over the coming decade is going to shift away from studying 
 In many regions, changing precipitation or melting snow and ice are altering hydrological systems, affecting water resources in terms of quantity and quality (medium confidence). Glaciers continue to shrink almost worldwide due to climate change (high confidence), affecting run-off and water resources downstream (medium confidence). Climate change is causing permafrost warming and thawing in high-latitude regions and in high-elevation regions (high confidence).
 \end{displayquote}
 
-The impact of such change on sediment storage and transport is uncertain. We can look to the past for evidence of how fluvial systems have responded, but at a time scale of hundreds of years it can become difficult to distinguish the importance of events such as individual storms. Furthermore, as I will expand upon below, there is a broad range of different numerical models developed to study landscape change on different time and spatial scales. One key process is being overlooked: groundwater. Beyond simple empirical laws for 1D infiltration, no numerical models to my knowledge include the impact of groundwater flow on the evolution of fluvial erosion and deposition. Yet rivers recharge by not only by surface run-off but from the ground \citep[e.g.][]{condon-etal-2020}, and river networks most likely grow as a network within the partially saturated ground \citep[e.g.][]{devauchelle-etal-2017}. The challenge is to translate this concept into a testable model that can be applied to fluvial systems.
+The impact of such change on sediment storage and transport is uncertain. We can look to the past for evidence of how fluvial systems have responded, but at a time scale of hundreds of years it can become difficult to distinguish the importance of events such as individual storms. Furthermore, as I will expand upon below, there is a broad range of different numerical models developed to study landscape change on different time and spatial scales. One key process is being overlooked: groundwater. Beyond simple empirical laws for 1D infiltration, no numerical models to my knowledge include the impact of groundwater flow on the evolution of fluvial erosion and deposition. Yet rivers recharge by not only by surface run-off but from the ground \citep[e.g.][]{condon-etal-2020}, and river networks most likely grow as a network within the partially saturated ground \citep[e.g.][]{devauchelle-etal-2012}. The challenge is to translate this concept into a testable model that can be applied to fluvial systems.
 
 \section{Short-Term Research Perspectives}
 
-Landscape evolution modelling on geological time-scales ($>10^{4}$\,yr) has been dominated by one single equation: the stream power law \citep[see][]{howard-1983,howard-1994}. If I return to the simple D diagram of surface processes (Figure \ref{ch2:1dmodel}), the stream power law makes one very sweeping assumption: the rate of change in sediment thickness within the landscape is zero, which is to say all sediment created is transported out of the model domain. Furthermore, assuming surface flow is the primary driver of landscape erosion and that positive $x$ is in the downstream direction then erosion, $E$, as a function of the power of the flow to detach particles of rock per unit width can be written as,
+Landscape evolution modelling on geological time-scales ($>10^{4}$\,yr) has been dominated by one single equation: the stream power law \citep[see][]{howard-1983,howard-1994}. If I return to the simple diagram of surface processes (Figure \ref{fg:1dmodel}), the stream power law makes one very sweeping assumption: the rate of change in sediment thickness within the landscape is zero, which is to say all sediment created is transported out of the model domain. Furthermore, assuming surface flow is the primary driver of landscape erosion and that positive $x$ is in the downstream direction then erosion, $E$, as a function of the power of the flow to detach particles of rock per unit width can be written as,
 \begin{equation}
 E = -k_{b}\rho_{w}gq_{w}^{m}\left(\partial_{x}z\right)^{n},
 \label{eq:streampower-inv}
@@ -22,16 +22,14 @@ where $k_{b}$ is a dimensional constant that parametrises bedrock erodability (\
 \end{equation}
 where the constant $k$ lumps together the other constants (units m$^{-1}$\,(m$^{2}$\,yr$^{-1}$)$^{1-m}$), and if $n\neq1$ equation \ref{eq:streampower} becomes non-linear. But in any landscape, the assumption of instantaneous sediment transport does not hold. The above model does not work. This raises a question: {\bf what are the key processes within landscape evolution?}
 
-Process based landscape evolution models (LEMs) have been created for various applications \citep[see for example][]{temme-etal-2017}. I will briefly describe two that have been used to study landscape change over different time-scales:
+The question of what processes domnates in landscape evlotion becomes more important as the time scale of interested becomes shorter. This has lead tot he development of process based landscape evolution models (LEMs) for various applications \citep[see for example][]{temme-etal-2017}. I will briefly describe two that have been used to study landscape change over different time-scales:
 \begin{itemize}
 \item[1] {\bf LAPSUS}
 This is a process based model, where sediment is eroded or deposited down slope based on the transport capacity of the fluvial system \citep{schoorl-etal-2000}. It also includes processes such as soil formation and solid creep. It is a highly simplistic model with eight free parameters which can vary in space and time.
 \item[2] {\bf CAESAR-Lisflood}
 This is a process based model but of increased complexity compared to LAPSUS. It is based on a cellular automaton approach, but the laws acting on each cell are many and complex. Overland flow is modelled using the Lisflood model of \cite{bates-etal-2010}, and a simple infiltration is included using TOPMODEL \citep{beven-1979}. Subsequently sediment is transported down slope given the shear velocity of the flow is sufficiently high \citep{coulthard-etal-2013,vandeweil-etal-2007}. Other processes are included such as soil creation, lateral erosion, vegetation cover, etc., giving a total of 49 free parameters \citep{skinner-etal-2018}.
-\item[3] {\bf DionisosFlow}
-This software began as a a relatively simple model that solved for sediment transport solving a set of continuum equations \citep{granjeon-1999}. Since its conception it has grown it a set of modules that can include weathering, soil creation, infiltration, and carbonate formation, whilst still solving for a set of coupled equations \citep{peton-etal-2020}. The complexities of the possible output stratigraphy generated by this model has been used to argue that solutions for landscape evolution are non-unique \citep{burgess-2015}.
 \end{itemize}
-Given the number of processes typically modelled in LEMs it is difficult to assess which are significant and those to which there is no sensitivity. Recently sensitivity analysis has been carried for CAESAR-Lisflood out using a part of the full parameter space \citep{skinner-etal-2018}. The result of this sensitivity analysis is that the greatest sensitivity was to the sediment transport law, which is a function of the flow of water. This is arguably a first order variable within the model, and it suggests second order aspects such as the degree of vegetation, soil creation are of lower importance.
+Given the number of processes typically modelled in LEMs it is difficult to assess which are significant and those to which there is no sensitivity. Recently sensitivity analysis has been carried for CAESAR-Lisflood out using a part of the full parameter space \citep{skinner-etal-2018}. The result of this sensitivity analysis is that the greatest sensitivity was to the sediment transport law, which is a function of the flow of water. This is a first order variable within the model, and it suggests second order aspects such as the degree of vegetation, soil creation are of lower importance.
 
 \begin{figure}
 \begin{minipage}{\textwidth}
@@ -43,7 +41,7 @@ Given the number of processes typically modelled in LEMs it is difficult to asse
 \end{minipage}
 \end{minipage}
 \caption{Example model evolution of the Riu Bergantes and surrounding area in the Iberian Massif, Spain. The model fLEM (\url{https://github.com/johnjarmitage/flem}) is run on the SRTM DEM that includes the Riu Bergantes in the bottom corner. The model is run as described in \cite{armitage-2019} for 20\,kyrs, for which the flow field is displayed on the right. No colour bars are shown, as this model is simply a demonstration of the idea rather than a full simulation.}
-\label{fg:bergnates}
+\label{fg:bergantes}
 \end{figure}
 
 To better understand the key processes I am involved in a large project where we plan to compare multiple LEMs on one single catchment, the Riu Bergantes in Spain (Figure \ref{fg:bergantes}). The aim is to take a series of different LEMs: fLEM \citep{armitage-2019}, TISC \citep{garcia-castellanos-2002}, LAPSUS \citep{schoorl-etal-2000}, and CAESAR-Lisflood \citep{coulthard-etal-2013}, and apply them to the same region and explore how they differ in terms of predicted topography and sediment flux.
@@ -53,8 +51,57 @@ Sensitivity analysis\dots
 
 \section{Long-Term Research Perspectives}
 
-Couple groundwater and landscape evolution.
+The flow of water is what drives most erosional processes and the transport of sediment. The formation of rivers and the shape of river networks has been studied for decades if not centuries. The dendritic chape of river networks have proven difficult to pin down to any causal mechanism \citep[e.g.][]{dodds-2000a}. Furthermore, the apparent relationship between drainiage area and local slope has been shown to be acausal \citep{schorghofer-2002}. Nonetheless, numerical models with power law relationships between water flux and drainiage area are the staple of landscape evolution modelling \citep[e.g. my own work][]{armitage-2019}.
 
-Develop a reduced complexity model of landscape evolution that can be used to help understand how landscape will react to the coming climate crisis.
+In fluvial systems draining into saturated regions, such as the Florida Panhandle, channel growth has similarities with the growth of a network into a diffusional field \citep{devauchelle-etal-2012}. This is perhaps an extream case, as groundwater is pervasive, but it is clear stream and river networks are to an extent fed from seepage of groundwater \citep[e.g.][]{fan-etal-2019}. The infiltration of water into the critical zone\footnote{Earth's critical zone is the “heterogeneous, near surface environment in which complex interactions involving rock, soil, water, air, and living organisms regulate the natural habitat and determine the availability of life-sustaining resources” (source \url{https://en.wikipedia.org/wiki/Earth's_critical_zone}).} and into deeper storage has a critical impact on the flux of trace elements through the hydrological cycle \citep[e.g.][]{condon-etal-2020}. This impacts the weathering of the bedrock, and it means that the assumption of surface run-off implicent in all landscape evolution models is wrong.
 
-\emph{Groundwater and Landscape Evolution, and future climate change.}
+\subsection{Groundwater}
+
+To model the flow of groundwater it is first assumed that the flow is steady, \emph{Bernoulli's theorem}. The equation of motion for a fluid can be expressed as,
+\begin{equation}
+\frac{\partial \mathbf{v}}{\partial t} + \left(\mathbf{v} \cdot \nabla \right)\mathbf{v} = -\frac{\nabla p}{\rho} - \nabla\phi
+\label{eq:flow}
+\end{equation}
+where $p$ is pressure, $\rho$ is density, and $\phi$ is the potential energ per unit mass (which for gravity is simply $gz$). This equation can be rearranged and through the addition of the vector field vorticity, $\Omega$, be written as (see for example \citealp{feynman-1964} p40-5),
+\begin{equation}
+\frac{\partial \mathbf{v}}{\partial t} + \Omega \times \mathbf{v} + \frac{1}{2}\nabla v^{2} = -\frac{\nabla p}{\rho} - \nabla\phi
+\label{eq:flow-vorticity}
+\end{equation}
+Steady flow is the assumption that the fluid flow along fixed streamlines. This means that $\frac{\partial \mathbf{v}}{\partial t} + \Omega \times \mathbf{v} = 0$, and therefore equation \ref{eq:flow-vorticity} simplifies to,
+\begin{equation}
+\mathbf{v} \cdot \nabla \left(\frac{p}{\rho} + \phi + \frac{1}{2}v^{2} \right) = 0.
+\end{equation}
+If the flow is assumed to be irrotational, then this further simplifies to,
+\begin{equation}
+\nabla \left(\frac{p}{\rho} + \phi + \frac{1}{2}v^{2} \right) = 0.
+\end{equation}
+and hence,
+\begin{equation}
+\frac{p}{\rho} + \phi + \frac{1}{2}v^{2}  = constant.
+\end{equation}
+If we assume that the circulation of water is sufficeintly slow then the $v^{2}$ term becomes small and the energy balance reduces to,
+\begin{equation}
+\frac{p}{\rho} + gz  = constant.
+\label{eq:bernoulli}
+\end{equation}
+where I have replaced the energy potential is due to gravity. In hydrology the energy potential is often represented by the \emph{hydraulic head}, $h$, and equation \ref{eq:bernoulli} is written as,
+\begin{equation}
+h = \frac{p}{g\rho} + z
+\end{equation}
+
+The flow of water through the critical zone and deeper bedrock can be modelled as a Darcy flow through a porous medium. THe velocity of the water is then given by,
+\begin{equation}
+\mathbf{v} = -K \nabla h,
+\end{equation}
+where $K$ is the hydraulic conductivity. At this point it is typical to make the \emph{shallow water assumption}, where the vertical flow is assumed to be zero, and flow is only horizontal. In this case the hydraulic head is the water elevation, and the flux of the groundwater is given by the horizontal velocity, $q = vh$. From mass balance, the rate of change in the elevation of the groundwater is given by,
+\begin{equation}
+\frac{\partial h}{\partial t} = \frac{\partial}{\partial x} \left( Kh \frac{\partial h}{\partial x} \right) + S
+\label{eq:groundwater}
+\end{equation}
+where $S$ is a source term. This non-linear equation can be solved numerically to predict groundwater flow (e.g. MODFLOW\footnote{MODFLOW: \url{https://www.usgs.gov/software/modflow-6-usgs-modular-hydrologic-model}}). However, recent laboratory experiments and measurements of river flow post storm would suggest that the shallow water assumption is not advisable \citep{guerin-etal-2019}.
+
+It is clear, however, that water flows down topography and through a potential energy field. There are two fluxes, a surface water flux and a ground water flux. The interaction of these two fluxes drive landscape erosion. Over the next five to ten years I hope to develop the methods encapsulate these two fluxes to better understand how the Earths surface erodes, and use this model to help understand how landscape will react to the coming climate crisis.
+
+\subsection{Seismic Noise}
+
+\emph{Groundwater content is estimated via seismic noise \citep{clements-2018}. Test the interpretations for groundwater storage! Build on Mr.~Franken's work.}

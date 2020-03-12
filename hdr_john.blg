@@ -3,46 +3,44 @@ Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
 The top-level auxiliary file: hdr_john.aux
 The style file: apalike.bst
 Database file #1: ../../ref.bib
-Warning--I didn't find a database entry for "devauchelle-etal-2017"
-You've used 111 entries,
+You've used 114 entries,
             1935 wiz_defined-function locations,
-            1187 strings with 26763 characters,
-and the built_in function-call counts, 49457 in all, are:
-= -- 4753
-> -- 2423
-< -- 57
-+ -- 875
-- -- 828
-* -- 4345
-:= -- 8742
-add.period$ -- 427
-call.type$ -- 111
-change.case$ -- 952
-chr.to.int$ -- 106
-cite$ -- 111
-duplicate$ -- 1654
-empty$ -- 3218
-format.name$ -- 991
-if$ -- 9686
+            1202 strings with 27095 characters,
+and the built_in function-call counts, 50746 in all, are:
+= -- 4873
+> -- 2500
+< -- 55
++ -- 906
+- -- 857
+* -- 4470
+:= -- 8983
+add.period$ -- 437
+call.type$ -- 114
+change.case$ -- 983
+chr.to.int$ -- 109
+cite$ -- 114
+duplicate$ -- 1682
+empty$ -- 3292
+format.name$ -- 1023
+if$ -- 9915
 int.to.chr$ -- 6
 int.to.str$ -- 0
-missing$ -- 110
-newline$ -- 642
-num.names$ -- 351
-pop$ -- 651
+missing$ -- 114
+newline$ -- 659
+num.names$ -- 358
+pop$ -- 675
 preamble$ -- 1
-purify$ -- 951
+purify$ -- 983
 quote$ -- 0
-skip$ -- 1267
+skip$ -- 1285
 stack$ -- 0
-substring$ -- 3360
-swap$ -- 198
-text.length$ -- 16
+substring$ -- 3460
+swap$ -- 190
+text.length$ -- 14
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 666
+type$ -- 682
 warning$ -- 0
-while$ -- 330
+while$ -- 336
 width$ -- 0
-write$ -- 1629
-(There was 1 warning)
+write$ -- 1670
