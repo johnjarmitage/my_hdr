@@ -153,6 +153,13 @@ Beven, K.~J. and Kirkby, M.~J. (1979).
 \newblock {\em Hydrological Sciences Bulletin}, 24:43--69.
 \newblock doi: 10.1080/02626667909491834.
 
+\bibitem[Bossmann and {Van Keken}, 2013]{bossmann-2013}
+Bossmann, A.~B. and {Van Keken}, P.~E. (2013).
+\newblock Dynamics of plumes in a compressible mantle with phase changes:
+  Implications for phase boundary topography.
+\newblock {\em Physics of the Earth and Planetary Interiors}, 224:21--31.
+\newblock doi: 10.1016/j.pepi.2013.09.002.
+
 \bibitem[Brooke et~al., 2018]{brooke-etal-2018}
 Brooke, S. A.~S., Whittaker, A.~C., Armitage, J.~J., {D'Arcy}, M., and Watkins,
   S.~E. (2018).
@@ -182,11 +189,25 @@ Buck, W.~R. (1991).
 \newblock Modes of continental lithosphere extension.
 \newblock {\em Journal of Geophysical Research}, 96:20161--20178.
 
-\bibitem[Chang and {Van der Lee}, 2011]{chang-vanderlee-2011}
-Chang, S. and {Van der Lee}, S. (2011).
+\bibitem[Calmels et~al., 2011]{calmels-etal-2011}
+Calmels, D., Galy, A., Hovius, N., Bickle, M., West, A.~J., Chen, M.~C., and
+  Chapman, H. (2011).
+\newblock Contribution of deep groundwater to the weathering budget in a
+  rapidly eroding mountain belt, {T}aiwan.
+\newblock {\em Earth and Plantary Science Letters}, 303:48--58.
+\newblock doi: 10.1016/j.epsl.2010.12.032.
+
+\bibitem[Chambers et~al., 2019]{chambers-etal-2019}
+Chambers, E.~L., Harmon, N., Keir, D., and Rychert, C.~A. (2019).
+\newblock Using ambient noise to image the {N}orthern {E}ast {A}frican {R}ift.
+\newblock {\em Geochemistry Geophysics Geosystems}, 20:2091--2109.
+\newblock doi: 10.1029/2018GC008129.
+
+\bibitem[Chang and {Van der Lee}, 2011]{chang-2011}
+Chang, S.~J. and {Van der Lee}, S. (2011).
 \newblock Mantle plumes and associated flow beneath {A}rabia and {E}ast
   {A}frica.
-\newblock {\em Earth and Planetary Sceince Letters}, 302:448--454.
+\newblock {\em Earth and Planetary Science Letters}, 302:448--454.
 \newblock doi: 10.1016/j.epsl.2010.12.050.
 
 \bibitem[Civiero et~al., 2019]{civiero-etal-2019}
@@ -195,6 +216,25 @@ Civiero, C., Armitage, J.~J., Goes, S., and Hammond, J. O.~S. (2019).
   northern {E}ast {A}frican {R}ift.
 \newblock {\em Geochemistry, Geophysics, Geosystems}, 20:6106--6122.
 \newblock doi: 10.1029/2019GC008636.
+
+\bibitem[Civiero et~al., 2015]{civiero-etal-2015}
+Civiero, C., Hammond, J. O.~S., Goes, S., Fishwick, S., Ahmed, A., Ayele, A.,
+  Doubre, C., Goitom, B., Keir, D., Kendall, J.~M., Leroy, S., Ogubazghi, G.,
+  R{\"u}mpker, G., and Stuart, G.~W. (2015).
+\newblock Multiple mantle upwellings in the transition zone beneath the
+  northern {East-African Rift} system from relative {P-wave} travel-time
+  tomography.
+\newblock {\em Geochemistry, Geophysics, Geosystems}, 16:2949--2986.
+\newblock doi: 10.1002/2015GC005948.
+
+\bibitem[Civiero et~al., 2018]{civiero-etal-2018}
+Civiero, C., Strak, V., Cust{\'o}dio, S., Silviera, G., Rawlinson, N.,
+  Arroucau, P., and Corela, C. (2018).
+\newblock A common deep source for upper-mantle upwellings below the
+  {I}bero-western {M}aghreb region from teleseismic {P}-wave travel-time
+  tomography.
+\newblock {\em Earth and Planetary Science Letters}, 499:157--172.
+\newblock doi: 10.1016/j.epsl.2018.07.024.
 
 \bibitem[Clements and Denolle, 2018]{clements-2018}
 Clements, T. and Denolle, M.~A. (2018).
@@ -226,12 +266,11 @@ Coulthard, T.~J., Neal, J.~C., andJ Ramirez, P. D.~B., {de Almedia}, G. A.~M.,
 \newblock {\em Earth Surface Processes and Landforms}, 38:1897--1906.
 \newblock doi: 10.1002/esp.3478.
 
-\bibitem[Devauchelle et~al., 2012]{devauchelle-etal-2012}
-Devauchelle, O., Petroff, A.~P., Seybold, H.~F., and Rothman, D.~H. (2012).
-\newblock Ramification of stream networks.
-\newblock {\em Proceedings of the National Academy of Science},
-  109:20832--20836.
-\newblock doi: 10.1073/pnas.1215218109.
+\bibitem[Davaille and Vatteville, 2005]{davaille-2005}
+Davaille, A. and Vatteville, J. (2005).
+\newblock On the transient nature of mantle plumes.
+\newblock {\em Geophysical Research Letters}, (L14309).
+\newblock doi: 10.1029/2005GL023029.
 
 \bibitem[Dietrich et~al., 2003]{dietrich-etal-2003}
 Dietrich, W.~E., Bellugi, D.~G., Sklar, L.~S., Srock, J.~D., Heimsath, A.~M.,
@@ -248,14 +287,6 @@ Dodds, P.~S. and Rothman, D.~H. (2000).
   deviations.
 \newblock {\em Physical Review E}, 63(016115).
 \newblock doi: 10.1103/PhysRevE.63.016115.
-
-\bibitem[Duller et~al., 2019]{duller-etal-2019}
-Duller, R.~A., Armitage, J.~J., Manner, H.~R., Grimes, S., and {Dunkley Jones},
-  T. (2019).
-\newblock Delayed sedimentary response to abrupt climate change at the
-  {P}aleocene-{E}ocene boundary, northern {S}pain.
-\newblock {\em Geology}, 47:159--162.
-\newblock doi: 10.1130/G45631.1.
 
 \bibitem[Duller et~al., 2010]{duller-etal-2010}
 Duller, R.~A., Whittaker, A.~C., Fedele, J.~J., Whitchurch, A.~L., Springett,
@@ -278,8 +309,8 @@ Elliot, T. and Spiegelman, M. (2014).
   edition.
 \newblock doi: 10.1016/B978-0-08-095975-7.00317-X.
 
-\bibitem[Emry et~al., 209]{emry-etal-2019}
-Emry, E.~L., Shen, Y., Nyblade, A.~A., Flinders, A., and Bao, X. (209).
+\bibitem[Emry et~al., 2019]{emry-etal-2019}
+Emry, E.~L., Shen, Y., Nyblade, A.~A., Flinders, A., and Bao, X. (2019).
 \newblock Upper mantle earth structure in {A}frica from full‐wave ambient
   noise tomography.
 \newblock {\em Geochemistry, Geophysics, Geosystems}, 20:120--147.
@@ -300,19 +331,6 @@ Fedele, J.~J. and Paola, C. (2007).
 \newblock {\em Journal of Geophysical Research}, 112(F02038).
 \newblock doi: 10.1029/2005JF000409.
 
-\bibitem[Feynman et~al., 1964]{feynman-1964}
-Feynman, R.~P., Leighton, R.~B., and Sands, M. (1964).
-\newblock {\em The Feynman Lectures on Physics}.
-\newblock Addison Wesley, Menlo Park, California.
-
-\bibitem[Fitton et~al., 1998]{fitton-etal-1998}
-Fitton, J.~G., Saunders, A.~D., Larsen, L.~M., Hardarson, B.~S., and Norry,
-  M.~J. (1998).
-\newblock Volcanic rocks from the southeast {G}reenland margin at
-  63$^{\circ}${N}: composition, petrogenisis, and mantle sources.
-\newblock {\em Proceedings of the Ocean Drilling Program, Scientific Results},
-  152:331--350.
-
 \bibitem[Forsyth et~al., 1998]{forsyth-etal-1998}
 Forsyth, D.~W., Webb, S.~C., Dorman, L.~M., and Shen, Y. (1998).
 \newblock Phase velocities of {R}ayleigh waves in the {MELT} experiment on the
@@ -325,6 +343,15 @@ Franken, T., Armitage, J.~J., Fuji, N., and Fournier, A. (2020).
   application to partial melting beneath the {R\'e}union island.
 \newblock {\em Geochemistry, Geophysics, Geosystems}.
 \newblock doi: TBA.
+
+\bibitem[Gallacher et~al., 2016]{gallacher-etal-2016}
+Gallacher, R.~J., Keir, D., Harmon, N., Stuart, G., Leroy, S., Hammond, J.
+  O.~S., Kendall, J.~M., Ayele, A., Goitom, B., Ogubazghi, G., and Ahmed, A.
+  (2016).
+\newblock The initiation of segmented buoyancy-driven melting during
+  continental breakup.
+\newblock {\em Nature Communications}, 7(13110).
+\newblock doi: 10.1038/ncomms13110.
 
 \bibitem[{Garcia-Castellanos}, 2002]{garcia-castellanos-2002}
 {Garcia-Castellanos}, D. (2002).
@@ -340,13 +367,6 @@ Goes, S., Armitage, J.~J., Harmon, N., Huismans, R., and Smith, H. (2012).
 \newblock {\em Journal of Geophysical Research}, 117:B12403.
 \newblock doi: 10.1029/2012JB009637.
 
-\bibitem[Gu{\'e}rin et~al., 2019]{guerin-etal-2019}
-Gu{\'e}rin, A., Devauchelle, O., Robert, V., Kitou, T., Dessert, C., Quiquerez,
-  A., Allemand, P., and Lajeunesse, E. (2019).
-\newblock Stream-discharge surges generated by groundwater flow.
-\newblock {\em Geophyscial Research Letters}, 46:7447--7455.
-\newblock doi: 10.1029/2019GL08229.
-
 \bibitem[Guerit et~al., 2014]{guerit-etal-2014}
 Guerit, L., M{\'e}tivier, F., Devauchelle, O., Lajeunesse, E., and Barrier, L.
   (2014).
@@ -358,14 +378,6 @@ Guerit, L., M{\'e}tivier, F., Devauchelle, O., Lajeunesse, E., and Barrier, L.
 Hack, J.~T. (1957).
 \newblock Studies of longitudingal profiles in {V}irginia and {M}aryland.
 \newblock {\em U.S. Geological Survey Proffesional Papaer}, 294-B(1).
-
-\bibitem[Hammond et~al., 2011]{hammond-etal-2011}
-Hammond, J. O.~S., Kendall, J.~M., Stuart, G.~W., Keir, D., Ebinger, C., Ayele,
-  A., and Belachew, M. (2011).
-\newblock The nature of the crust beneath the afar triple junc- tion: evidence
-  from receiver functions.
-\newblock {\em Geochemistry Geophysics Geosystems}, 12:Q12004.
-\newblock doi: 10.1029/2011GC003738.
 
 \bibitem[Hammond et~al., 2013]{hammond-etal-2013}
 Hammond, J. O.~S., nd~G~W~Stuart, J. M.~K., Ebinger, C.~J., Bastow, I.~D.,
@@ -399,19 +411,17 @@ Harmon, N., Forsyth, D.~W., and Weeranatne, D.~S. (2009).
 \newblock {\em Earth and Planetary Science Letters}, 278:96--106.
 \newblock doi: 10.1016/j.epsl.2008.11.025.
 
-\bibitem[Herzberg et~al., 2007]{herzberg-etal-2007}
-Herzberg, C., Asimow, P.~D., Arndt, N., Niu, Y., Lesher, C.~M., Fitton, J.~G.,
-  Cheedle, M.~J., and Saunders, A.~D. (2007).
-\newblock Temperatures in ambient mantle and plumes: {C}onstraints from
-  basalts, picrites, and komatiites.
-\newblock {\em Geochemistry Geophysics Geosystems}, 8.
-\newblock doi:10.1029/2006GC001390.
-
 \bibitem[Hewitt, 2010]{hewitt-2010}
 Hewitt, I.~J. (2010).
 \newblock Modelling melting rates in upwelling mantle.
 \newblock {\em Earth and Planetary Science Letters}, 300:264--274.
 \newblock doi: 10.1016/j.epsl.2010.10.010.
+
+\bibitem[Hirschamnn, 2010]{hirschmann-2010}
+Hirschamnn, M.~M. (2010).
+\newblock Partial melt in teh oceanic low velocity zone.
+\newblock {\em Physics of the Earth and Planetary Interiors}, 179:60--71.
+\newblock doi: 10.1016/j.pepi.2009.12.003.
 
 \bibitem[Hopper et~al., 2003]{hopper-etal-2003}
 Hopper, J.~R., {Dahl-Jensen}, T., Holbrook, W.~S., Larsen, H.~C., Lizarradle,
@@ -444,6 +454,13 @@ Huybers, P. and Langmuir, C.~H. (2009).
 \newblock {\em Earth and Planetary Science Letters}, 286:479--49.
 \newblock doi: 10.1016/j.epsl.2009.07.014.
 
+\bibitem[Illien et~al., 2020]{illien-etal-2020}
+Illien, L., Andermann, C., {Sens-Sch\"onfelder}, C., Cook, K., and Hovius, N.
+  (2020).
+\newblock Subsurface moisture regulates {H}imalayan groundwater storage and
+  discharge.
+\newblock {\em Proceedings of the National Academy}.
+
 \bibitem[IPCC, 2014]{IPCC-policy-2014}
 IPCC (2014).
 \newblock Summary for policymakers.
@@ -456,10 +473,29 @@ IPCC (2014).
   Intergovernmental Panel on Climate Change}, pages 1--32. Cambridge University
   Press, Cambridge, United Kingdom.
 
+\bibitem[Jasechko et~al., 2016]{jasechko-etal-2016}
+Jasechko, S., Kirchner, J.~W., Welker, J.~M., and {McDonnell}, J.~J. (2016).
+\newblock Substantial proportion of global streamflow less than three months
+  old.
+\newblock {\em Nature Geoscience}, 9:126--129.
+\newblock doi: 10.1038/ngeo2636.
+
+\bibitem[Jones and Woodward, 200]{jones-2001}
+Jones, J.~E. and Woodward, C.~S. (200).
+\newblock {N}ewton--{K}rylov-multigrid solvers for large-scale, highly
+  heterogeneous, variably saturated fow problems.
+\newblock {\em Advances in Water Resources}, 24:763--774.
+
 \bibitem[Jull and {McKenzie}, 1996]{jull-1996}
 Jull, M. and {McKenzie}, D. (1996).
 \newblock The effect of deglaciation on mantle melting beneath {I}celand.
 \newblock {\em Journal of Geophysical Research}, 101(B10):21815--21828.
+
+\bibitem[Karato, 2012]{karato-2012}
+Karato, S.~I. (2012).
+\newblock On the origin of the asthenosphere.
+\newblock {\em Earth and Planetary Science Letters}, 321-322:95--103.
+\newblock doi: 10.1016/j.epsl.2012.01.001.
 
 \bibitem[Katz et~al., 2003]{katz-etal-2003}
 Katz, R.~F., Spiegelman, M., and Langmuir, C.~H. (2003).
@@ -489,18 +525,26 @@ Krystinik, L.~F. and {DeJarnett}, B.~B. (1995).
   Stratigraphy of Foreland Basin Deposits}, pages 11--26. American Association
   of Petroleum Geologists.
 
+\bibitem[Kumagai et~al., 2007]{kumagai-etal-2007}
+Kumagai, I., Davaille, A., and Kurita, K. (2007).
+\newblock On the fate of thermally buoyant mantle plumes at density interfaces.
+\newblock {\em Earth and Planetary Science Letters}, 254:180--193.
+\newblock doi: 10.1016/j.epsl.2006.11.029.
+
 \bibitem[Lacey, 1930]{lacey-1930}
 Lacey, G. (1930).
 \newblock Stable channels in alluvium.
 \newblock In Grierson, W.~W., editor, {\em Minutes of the Proceedings}, volume
   229, pages 259--292. Institution of Civil Engineers Publishing.
 
-\bibitem[Leopold and Maddock, 1953]{leopold-1953}
-Leopold, L.~B. and Maddock, T. (1953).
-\newblock The hydraulic geometry of stream channels and some physiographic
-  implications.
-\newblock Technical Report 252, U.S. Geological Survey Proffesional Papers.
-\newblock 57 p.
+\bibitem[Lecocq et~al., 2017]{lecocq-etal-2017}
+Lecocq, T., Longuevergine, L., Pedersen, H.~A., Brenguier, F., and Stammler, K.
+  (2017).
+\newblock Monitoring ground water storage at mesoscale using seismic noise: 30
+  years of continuous observation and thermo-elastic and hydrological
+  modelling.
+\newblock {\em Scientific Reports}, 7(14241).
+\newblock doi: 10.1038/s41598-017-14468-9.
 
 \bibitem[Lucazeau et~al., 2015]{lucazeau-etal-2015}
 Lucazeau, F., Armitage, J., and {Kadima Kabongo}, E. (2015).
@@ -524,6 +568,14 @@ Maritan, A., Rinaldo, A., Rigon, R., Giacometti, A., and {Rordriguez-Iturbe},
 \newblock Scaling laws for river networks.
 \newblock {\em Physical Review E}, 53:1510--1515.
 
+\bibitem[Maxwell et~al., 2015]{maxwell-etal-2015}
+Maxwell, R.~M., Condon, L.~E., and Kollet, S.~J. (2015).
+\newblock A high-resolution simulation of groundwater and surface water over
+  most of the continental {US} with the integrated hydrologic model {ParFlow}
+  v3.
+\newblock {\em Geoscientific Model Development}, 8:923--937.
+\newblock doi: 10.5194/gmd-8-923-2015.
+
 \bibitem[Mazzullo et~al., 2017]{mazzullo-etal-2017}
 Mazzullo, A., Stutzmann, E., Montagner, J., Kiselev, S., Maurya, S., Barruol,
   G., and Sigloch, K. (2017).
@@ -543,6 +595,13 @@ Mc{K}enzie, D. and {O'Nions}, R.~K. (1991).
 \newblock Fourth-order nonmarine to marine sequences, {M}iddle {C}astle gate
   {F}ormation, {B}ook {C}liffs, {U}tah.
 \newblock {\em Geology}, 28:359--362.
+
+\bibitem[Mehouachi and Singh, 2017]{mehouachi-2017}
+Mehouachi, F. and Singh, S.~C. (2017).
+\newblock Water-rich sublithospheric melt channel in the equitorial {A}tlantic
+  {O}cean.
+\newblock {\em Nature Geoscience}, 1:65--69.
+\newblock doi: 10.1038/s41561-017-0034-z.
 
 \bibitem[Michael et~al., 2013]{michael-etal-2013}
 Michael, N.~A., Whittaker, A.~C., and Allen, P.~A. (2013).
@@ -572,13 +631,6 @@ Minshull, T.~A., Lane, C.~I., Collier, J.~S., and Whitmarsh, R.~B. (2008).
   {A}rabian {S}ea.
 \newblock {\em Nature Geoscience}, 1:463--467.
 
-\bibitem[Nooner et~al., 2009]{nooner-etal-2009}
-Nooner, S.~L., Bennati, L., Calais, E., Buck, W.~R., Hamling, I.~J., Wright,
-  T.~J., and Lewi, E. (2009).
-\newblock Post-rifting relaxation in the {A}far region, {E}thiopia.
-\newblock {\em Geophysical Research Letters}, 36(21):L21308.
-\newblock doi: 10.1029/2009GL040502.
-
 \bibitem[Obradovich, 1993]{obradovich-1993}
 Obradovich, J.~D. (1993).
 \newblock A {C}retaceous time scale.
@@ -607,12 +659,20 @@ Petersen, K.~D., Armitage, J.~J., Nielsen, S.~B., and Thybo, H. (2015).
 \newblock {\em Earth and Planetary Science Letters}, 409:61--70.
 \newblock doi: 10.1016/j.epsl.2014.10.043.
 
-\bibitem[Reilinger and {McClusky}, 2011]{reilinger-2011}
-Reilinger, R. and {McClusky}, S. (2011).
-\newblock Nubia – {A}rabia – {E}urasia plate motions and the dynamics of
-  {M}editerranean and {M}iddle {E}ast tectonics.
-\newblock {\em Geophysical Journal International}, 186:971--979.
-\newblock doi: 10.1111/j.1365-246X.2011.05133.x.
+\bibitem[Rasolofasaon and Zinszner, 2012]{rasolofasaon-2012}
+Rasolofasaon, P. N.~J. and Zinszner, B. (2012).
+\newblock Experimental verification of the petroelastic model in the laboratory
+  -- fluid substitution and pressure effects.
+\newblock {\em Oil {\&} Gas Science and Technology -- Revue d’IFP Energies
+  nouvelles}, 67:303--318.
+\newblock doi: 10.2516/ogst/2011167.
+
+\bibitem[{Rees Jones} and Rudge, 2020]{jones-2020}
+{Rees Jones}, D.~W. and Rudge, J.~F. (2020).
+\newblock Fast magma ascent, revised estimates from the deglaciation of
+  {I}celand.
+\newblock {\em Earth and Planetary Science Letters}, 542(16324).
+\newblock doi: 10.1016/j.epsl.2020.116324.
 
 \bibitem[Ribe, 1985]{ribe-1985}
 Ribe, N.~M. (1985).
@@ -620,23 +680,32 @@ Ribe, N.~M. (1985).
   mantle.
 \newblock {\em Earth and Planetary Science Letters}, 73:361--376.
 
+\bibitem[Rickers et~al., 2016]{rickers-etal-2013}
+Rickers, F., Fichtner, A., and Trampert, J. (2016).
+\newblock The {I}celand-{J}an {M}ayen plume system and its impact on mantle
+  dynamics in the {N}orth {A}tlantic region: Evidence from full-waveform
+  inversion.
+\newblock {\em Earth and Planetary Science Letters}, 367:39--51.
+\newblock doi: 10.1016/j.epsl.2013.02.022.
+
 \bibitem[Rigon et~al., 1996]{rigon-etal-1996}
 Rigon, R., {Rodriguez-Iturbe}, I., Maritan, A., Giacometti, A., Tarboton,
   D.~G., and Rinaldo, A. (1996).
 \newblock On {H}ack's law.
 \newblock {\em Water Resources Research}, 32:3367--3374.
 
+\bibitem[Ritsema et~al., 1999]{ritsema-etal-1999}
+Ritsema, J., {van Heijst}, H.~J., and Woodhouse, J.~H. (1999).
+\newblock Complex shear wave velocity structure imaged beneath {A}frica and
+  {I}celand.
+\newblock {\em Science}, 286:1925--1928.
+\newblock doi: 10.1126/science.286.5446.1925.
+
 \bibitem[Robinson and Slingerland, 1998]{robinson-1998}
 Robinson, R. A.~J. and Slingerland, R.~L. (1998).
 \newblock Origin of fluvial grain-size trends in a foreland basin: the {P}ocono
   {F}ormation on teh {C}entral {A}ppalachian {B}asin.
 \newblock {\em Journal of Sedimentary Research}, 68:473--486.
-
-\bibitem[Rooney et~al., 2012]{rooney-etal-2012}
-Rooney, T.~O., Herzberg, C., and Bastow, I.~D. (2012).
-\newblock Elevated mantle temperature beneath {East Africa}.
-\newblock {\em Geology}, 40:27--30.
-\newblock doi:10.1130/G32382.1.
 
 \bibitem[Ros et~al., 2017]{ros-etal-2017}
 Ros, E., {P{\'e}rez-Gussiny{\'e}}, M., Araujo, M., {Thoaldo Romeiro}, M.,
@@ -668,17 +737,18 @@ Rychert, C.~A., Harmon, N., and Ebinger, C. (2014).
 \newblock {\em Earth and Planetary Science Letters}, 388:156--165.
 \newblock doi: 10.1016/j.epsl.2013.11.027.
 
+\bibitem[Saki et~al., 2015]{saki-etal-2015}
+Saki, M., Thomas, C., Nippress, S. E.~J., and Lessing, S. (2015).
+\newblock Topography of upper mantle seismic discontinuities beneath the
+  {N}orth {A}tlantic: the {A}zores, {C}anary and {C}ape {V}erde plumes.
+\newblock {\em Earth and Planetary Science Letters}, 409:193--202.
+\newblock doi: 10.1016/j.epsl.2014.10.052.
+
 \bibitem[Schoorl et~al., 2000]{schoorl-etal-2000}
 Schoorl, J.~M., Sonneveld, M. P.~W., and Veldkamp, A. (2000).
 \newblock Three-dimensional landscape process modelling: the effect of dem
   resolution.
 \newblock {\em Earth Surface Processes and Landforms}, 25:1025--1034.
-
-\bibitem[Schorghofer and Rothman, 2002]{schorghofer-2002}
-Schorghofer, N. and Rothman, D.~H. (2002).
-\newblock Acausal relations between topographic slope and drainage area.
-\newblock {\em Geophysical Research Letters}, 29(13):1633.
-\newblock doi: 10.1029/2002GL015144.
 
 \bibitem[Scott, 1992]{scott-1992}
 Scott, D.~R. (1992).
@@ -762,12 +832,25 @@ Temme, A. J. A.~M., Armitage, J.~J., Attal, M., {van Gorp}, W., Coulthard,
 \newblock {\em Earth Surface Processes and Landforms}, 42:2167--2183.
 \newblock doi: 10.1002/esp.4162.
 
+\bibitem[Tosi and Yuen, 2011]{tosi-2011}
+Tosi, N. and Yuen, D.~A. (2011).
+\newblock Bent-shaped plumes and horizontal channel flow beneath the 660 km
+  discontinuity.
+\newblock {\em Earth and Planetary Science Letters}, 312:348--359.
+\newblock doi: 10.1016/j.epsl.2011.10.015.
+
 \bibitem[{Van de Weil} et~al., 2007]{vandeweil-etal-2007}
 {Van de Weil}, M.~J., Coulthard, T., Macklin, M., and Lewin, J. (2007).
 \newblock Embedding reach‐scale fluvial dynamics within the {CAESAR} cellular
   automaton landscape evolution model.
 \newblock {\em Geomorphology}, 90:283--301.
 \newblock doi: 10.1016/j.geomorph.2006.10.024.
+
+\bibitem[Vincent et~al., 2019]{vincent-etal-2019}
+Vincent, A., Violette, S., and Aoalgeirsdottir, G. (2019).
+\newblock Groundwater in catchments headed by temperate glaciers: A review.
+\newblock {\em Earth-Science Reviews}, 188:59--76.
+\newblock doi: 10.1016/j.earscirev.2018.10.017.
 
 \bibitem[Weatherley and Katz, 2016]{weatherley-2016}
 Weatherley, S.~M. and Katz, R.~F. (2016).
@@ -790,12 +873,10 @@ White, R.~S., Smith, L.~K., Roberts, A.~W., Christie, P. A.~F., Kusznir, N.~J.,
 \newblock {\em Nature}, 452:460--465.
 \newblock doi: 10.1038/nature06687.
 
-\bibitem[Whittaker et~al., 2007]{whittaker-etal-2007}
-Whittaker, A.~C., Cowie, P.~A., Attal, M., Tucker, G.~E., and Roberts, G.~P.
-  (2007).
-\newblock Bedrock channel adjustment to tectonic forcing: Implications for
-  predicting river incision rates.
-\newblock {\em Geology}, 35:103--106.
-\newblock doi: 10.1130/G23106A.1.
+\bibitem[Zhang et~al., 2016]{zhang-etal-2016}
+Zhang, Y., Slingerland, R., and Duffy, C. (2016).
+\newblock Fully-coupled hyrologic processes for modeling landscape evolution.
+\newblock {\em Environmental Modelling and Software}, 82:89--107.
+\newblock doi 10.1016/j.envsoft.2016.04.014.
 
 \end{thebibliography}

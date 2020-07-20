@@ -6,6 +6,7 @@
 \usepackage{eurosym}
 \usepackage{pdfpages}
 \usepackage{natbib}
+\usepackage{appendix}
 %\usepackage[english,french]{babel}
 \input{babelbst.tex}
 \input{config.tex}
@@ -20,6 +21,14 @@
 \makeindex
 \setlength{\textheight}{23cm}
 \title{}
+
+
+\AtBeginEnvironment{subappendices}{%
+\chapter*{Appendix}
+\addcontentsline{toc}{chapter}{Appendices}
+\counterwithin{figure}{section}
+\counterwithin{table}{section}
+}
 
 \begin{document}
 

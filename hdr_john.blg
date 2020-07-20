@@ -3,44 +3,46 @@ Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
 The top-level auxiliary file: hdr_john.aux
 The style file: apalike.bst
 Database file #1: ../../ref.bib
-You've used 114 entries,
+Warning--there's a number but no volume in davaille-2005
+You've used 125 entries,
             1935 wiz_defined-function locations,
-            1202 strings with 27095 characters,
-and the built_in function-call counts, 50746 in all, are:
-= -- 4873
-> -- 2500
-< -- 55
-+ -- 906
-- -- 857
-* -- 4470
-:= -- 8983
-add.period$ -- 437
-call.type$ -- 114
-change.case$ -- 983
-chr.to.int$ -- 109
-cite$ -- 114
-duplicate$ -- 1682
-empty$ -- 3292
-format.name$ -- 1023
-if$ -- 9915
+            1261 strings with 29443 characters,
+and the built_in function-call counts, 55257 in all, are:
+= -- 5319
+> -- 2701
+< -- 60
++ -- 976
+- -- 925
+* -- 4858
+:= -- 9791
+add.period$ -- 481
+call.type$ -- 125
+change.case$ -- 1073
+chr.to.int$ -- 120
+cite$ -- 126
+duplicate$ -- 1834
+empty$ -- 3587
+format.name$ -- 1110
+if$ -- 10795
 int.to.chr$ -- 6
 int.to.str$ -- 0
-missing$ -- 114
-newline$ -- 659
-num.names$ -- 358
-pop$ -- 675
+missing$ -- 125
+newline$ -- 725
+num.names$ -- 391
+pop$ -- 723
 preamble$ -- 1
-purify$ -- 983
+purify$ -- 1072
 quote$ -- 0
-skip$ -- 1285
+skip$ -- 1405
 stack$ -- 0
-substring$ -- 3460
-swap$ -- 190
-text.length$ -- 14
+substring$ -- 3762
+swap$ -- 201
+text.length$ -- 13
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 682
-warning$ -- 0
-while$ -- 336
+type$ -- 750
+warning$ -- 1
+while$ -- 367
 width$ -- 0
-write$ -- 1670
+write$ -- 1834
+(There was 1 warning)
