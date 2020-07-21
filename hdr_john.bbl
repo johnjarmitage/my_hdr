@@ -139,12 +139,31 @@ Bastow, I.~D., Stuart, G.~W., Kendall, J.~M., and Ebinger, C.~J. (2005).
 \newblock {\em Geophysical Journal International}, 162:479--493.
 \newblock doi: 10.1111/j.1365-246X.2005.02666.x.
 
+\bibitem[Bates and {De Roo}, 2000]{bates-2000}
+Bates, P.~D. and {De Roo}, A. P.~J. (2000).
+\newblock A simple raster-based model for flood inundation simulation.
+\newblock {\em Journal of Hydrology}, 236:54--77.
+
 \bibitem[Bates et~al., 2010]{bates-etal-2010}
 Bates, P.~D., Horritt, M.~S., and Fewtrell, T. (2010).
 \newblock A simple inretial formulation of the shallow water equations for
   efficient two-dimensional flood inundaion modelling.
 \newblock {\em Journal of Hydrology}, 236:54--77.
 \newblock doi: 10.1016/S0022‐1694(00)00278‐X.
+
+\bibitem[Beghein et~al., 2019]{beghein-etal-2019}
+Beghein, C., Xing, Z., and Goes, S. (2019).
+\newblock Thermal nature and resolution of hte lithosphere-asthenosphere
+  boundary under the {P}acific from surface waves.
+\newblock {\em Geophysical Journal International}, 216:1441--1465.
+\newblock doi: 10.1093/gji/ggy490.
+
+\bibitem[Berkowitz and Zehe, 2020]{berkowitz-2020}
+Berkowitz, B. and Zehe, E. (2020).
+\newblock Surface water and groundwater: unifying conceptualization and
+  quantification of two ``water worlds''.
+\newblock {\em Hydrology and Earth System Science}, 24:1831--858.
+\newblock doi: 10.5194/hess-24-1831-2020.
 
 \bibitem[Beven and Kirkby, 1979]{beven-1979}
 Beven, K.~J. and Kirkby, M.~J. (1979).
@@ -271,6 +290,14 @@ Davaille, A. and Vatteville, J. (2005).
 \newblock On the transient nature of mantle plumes.
 \newblock {\em Geophysical Research Letters}, (L14309).
 \newblock doi: 10.1029/2005GL023029.
+
+\bibitem[Davy et~al., 2017]{davy-etal-2017}
+Davy, P., Croissant, T., and Lague, D. (2017).
+\newblock A precipiton method to calculate river hydrodynamics, with
+  applications toflood prediction, landscape evolution models, and braiding
+  instabilities.
+\newblock {\em Journal of Geophyscial Research}, 122:1491--1512.
+\newblock doi: 10.1002/2016JF004156.
 
 \bibitem[Dietrich et~al., 2003]{dietrich-etal-2003}
 Dietrich, W.~E., Bellugi, D.~G., Sklar, L.~S., Srock, J.~D., Heimsath, A.~M.,
@@ -411,6 +438,11 @@ Harmon, N., Forsyth, D.~W., and Weeranatne, D.~S. (2009).
 \newblock {\em Earth and Planetary Science Letters}, 278:96--106.
 \newblock doi: 10.1016/j.epsl.2008.11.025.
 
+\bibitem[Heezen et~al., 1966]{heezen-etal-1966}
+Heezen, B.~C., Ewing, M., and Johnson, G.~L. (1966).
+\newblock The {G}ulf of {C}orinth floor.
+\newblock {\em Deep-Sea Research}, 3:381--411.
+
 \bibitem[Hewitt, 2010]{hewitt-2010}
 Hewitt, I.~J. (2010).
 \newblock Modelling melting rates in upwelling mantle.
@@ -546,6 +578,13 @@ Lecocq, T., Longuevergine, L., Pedersen, H.~A., Brenguier, F., and Stammler, K.
 \newblock {\em Scientific Reports}, 7(14241).
 \newblock doi: 10.1038/s41598-017-14468-9.
 
+\bibitem[Limare et~al., 2019]{limare-etal-2019}
+Limare, A., Jaupart, C., Kaminski, E., Fourel, L., and Farnetani, C.~G. (2019).
+\newblock Convection in an internally heated stratified heterogeneous
+  reservoir.
+\newblock {\em Journal of Fluid Mechanics}, 870:67--105.
+\newblock doi: 10.1017/jfm.2019.243.
+
 \bibitem[Lucazeau et~al., 2015]{lucazeau-etal-2015}
 Lucazeau, F., Armitage, J., and {Kadima Kabongo}, E. (2015).
 \newblock Thermal regime and evoltion of the {C}ongo {B}asin as an
@@ -561,6 +600,19 @@ Maclennan, J., Jull, M., {McKenzie}, D., Slater, L., and Gr{\"o}nvold, K.
 \newblock The link between volcanism and deglaciation in {I}celand.
 \newblock {\em Geochemistry Geophysics Geosystems}, 3(11, 1062).
 \newblock doi: 10.1029/2001GC000282.
+
+\bibitem[Maguire et~al., 2018]{maguire-etal-2018}
+Maguire, R., Ritsema, J., Bonnin, M., {van Keken}, P.~E., and Goes, S. (2018).
+\newblock Evaluating the resolution of deep mantle plumes in teleseismic
+  traveltime tomography.
+\newblock {\em Journal of Geophysical Research}, 128:384--400.
+\newblock doi: 10.1002/2017JB014730.
+
+\bibitem[Manning, 1981]{manning-1981}
+Manning, R. (1981).
+\newblock On the flow of water in open channels and pipes.
+\newblock {\em Transactions fo the Institute of Civil Engineering Ireland},
+  20:161--207.
 
 \bibitem[Maritan et~al., 1996]{maritan-etal-1996}
 Maritan, A., Rinaldo, A., Rigon, R., Giacometti, A., and {Rordriguez-Iturbe},
@@ -602,6 +654,15 @@ Mehouachi, F. and Singh, S.~C. (2017).
   {O}cean.
 \newblock {\em Nature Geoscience}, 1:65--69.
 \newblock doi: 10.1038/s41561-017-0034-z.
+
+\bibitem[Micallef et~al., 2020]{micallef-etal-2020}
+Micallef, A., Person, M., Haroon, A., Weymer, B.~A., Jegen, M., Schwalenberg,
+  K., Faghih, Z., Duan, S., Cohen, D., Mountjoy, J.~J., Woelz, S., Gabel,
+  C.~W., Averes, T., and Tiwari, A.~K. (2020).
+\newblock 3d characterisation and quantification of an offshore freshened
+  groundwater system in teh {C}anterbury {B}ight.
+\newblock {\em Nature Communications}, 11(1372).
+\newblock doi: 10.1038/s41467-020-14770-7.
 
 \bibitem[Michael et~al., 2013]{michael-etal-2013}
 Michael, N.~A., Whittaker, A.~C., and Allen, P.~A. (2013).

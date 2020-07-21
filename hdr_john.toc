@@ -5,31 +5,31 @@
 \contentsline {section}{\numberline {2.2}Mantle Processes}{5}{section.2.2}%
 \contentsline {subsection}{\numberline {2.2.1}East African Rift}{6}{subsection.2.2.1}%
 \contentsline {subsection}{\numberline {2.2.2}Iceland}{13}{subsection.2.2.2}%
-\contentsline {subsection}{\numberline {2.2.3}La Réunion}{14}{subsection.2.2.3}%
-\contentsline {section}{\numberline {2.3}Surface Processes}{16}{section.2.3}%
-\contentsline {subsection}{\numberline {2.3.1}Eocene Escanilla sedimentary system, Spain}{16}{subsection.2.3.1}%
-\contentsline {subsection}{\numberline {2.3.2}Book Cliffs, USA}{17}{subsection.2.3.2}%
-\contentsline {section}{\numberline {2.4}Predicting geological observations}{19}{section.2.4}%
-\contentsline {chapter}{Appendices}{21}{chapter*.3}%
-\contentsline {section}{\numberline {2.A}A simplified model of decompression melting}{21}{section.a.2.A}%
-\contentsline {section}{\numberline {2.B}A simplified model of surface processes}{24}{section.a.2.B}%
-\contentsline {chapter}{\numberline {3}Perspectives}{29}{appendix.3}%
-\contentsline {section}{\numberline {3.1}Short-Term: Non-steady surface water flow}{29}{section.3.1}%
-\contentsline {section}{\numberline {3.2}Long-Term: Groundwater}{31}{section.3.2}%
-\contentsline {subsection}{\numberline {3.2.1}Groundwater and surface water}{32}{subsection.3.2.1}%
-\contentsline {subsection}{\numberline {3.2.2}Simulations to observations}{33}{subsection.3.2.2}%
-\contentsline {subsection}{\numberline {3.2.3}Groundwater observations}{34}{subsection.3.2.3}%
-\contentsline {chapter}{\numberline {4}Rèsumé}{35}{appendix.4}%
-\contentsline {section}{Education}{35}{section*.4}%
-\contentsline {section}{Employment History}{35}{section*.5}%
-\contentsline {section}{Funding}{36}{section*.6}%
-\contentsline {section}{Awards}{36}{section*.7}%
-\contentsline {section}{PhD Supervision}{37}{section*.8}%
-\contentsline {section}{Masters and Undergraduate Supervision}{37}{section*.9}%
-\contentsline {section}{Teaching}{37}{section*.10}%
-\contentsline {section}{Selected Invited Presentations}{37}{section*.11}%
-\contentsline {section}{Selected Oral Conference Presentations}{38}{section*.12}%
-\contentsline {section}{Invited Seminars}{38}{section*.13}%
-\contentsline {section}{List of publications}{39}{section*.14}%
-\contentsline {chapter}{\numberline {A}Example Publications Part 1: Mantle}{43}{appendix.A}%
-\contentsline {chapter}{\numberline {B}Example Publications Part 2: Surface}{121}{appendix.B}%
+\contentsline {subsection}{\numberline {2.2.3}La Réunion}{15}{subsection.2.2.3}%
+\contentsline {section}{\numberline {2.3}Surface Processes}{18}{section.2.3}%
+\contentsline {subsection}{\numberline {2.3.1}Eocene Escanilla sedimentary system, Spain}{18}{subsection.2.3.1}%
+\contentsline {subsection}{\numberline {2.3.2}Book Cliffs, USA}{20}{subsection.2.3.2}%
+\contentsline {section}{\numberline {2.4}Predicting geological observations}{21}{section.2.4}%
+\contentsline {chapter}{Appendices}{23}{chapter*.5}%
+\contentsline {section}{\numberline {2.A}A simplified model of decompression melting}{23}{section.a.2.A}%
+\contentsline {section}{\numberline {2.B}A simplified model of surface processes}{26}{section.a.2.B}%
+\contentsline {chapter}{\numberline {3}Perspectives}{31}{appendix.3}%
+\contentsline {section}{\numberline {3.1}Short-Term: Non-steady surface water flow}{32}{section.3.1}%
+\contentsline {section}{\numberline {3.2}Long-Term: Groundwater}{34}{section.3.2}%
+\contentsline {subsection}{\numberline {3.2.1}Groundwater and surface water}{35}{subsection.3.2.1}%
+\contentsline {subsection}{\numberline {3.2.2}Simulations to observations}{36}{subsection.3.2.2}%
+\contentsline {subsection}{\numberline {3.2.3}Groundwater observations}{37}{subsection.3.2.3}%
+\contentsline {chapter}{\numberline {4}Rèsumé}{39}{appendix.4}%
+\contentsline {section}{Education}{39}{section*.8}%
+\contentsline {section}{Employment History}{39}{section*.9}%
+\contentsline {section}{Funding}{40}{section*.10}%
+\contentsline {section}{Awards}{40}{section*.11}%
+\contentsline {section}{PhD Supervision}{41}{section*.12}%
+\contentsline {section}{Masters and Undergraduate Supervision}{41}{section*.13}%
+\contentsline {section}{Teaching}{41}{section*.14}%
+\contentsline {section}{Selected Invited Presentations}{41}{section*.15}%
+\contentsline {section}{Selected Oral Conference Presentations}{42}{section*.16}%
+\contentsline {section}{Invited Seminars}{42}{section*.17}%
+\contentsline {section}{List of publications}{43}{section*.18}%
+\contentsline {chapter}{\numberline {A}Example Publications Part 1: Mantle}{47}{appendix.A}%
+\contentsline {chapter}{\numberline {B}Example Publications Part 2: Surface}{125}{appendix.B}%

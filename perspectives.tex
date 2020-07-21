@@ -1,12 +1,12 @@
 \chapter{Perspectives}
 
-My research outlook over the coming decade is going to shift away from studying the Earth's deep interior and move towards the surface. In the next century run-off, which drives fluvial erosion, will likely change significantly due to the effects of global warming on the Earth system. To quote the IPCC's Fifth Assessment Report \cite{IPCC-policy-2014}:
-
+My research outlook over the coming decade is going to shift away from studying the Earth's deep interior and move towards the surface and shallow subsurface. Inversions of cross-correlations of ambient seismic noise are starting to be used to explore the shallow structure of the subsurface \citep[e.g.][]{clements-2018}. The inversion gives a time dependent change in seismic velocity that correlates with change in hydraulic head or saturation of the groundwater pore space \citep{lecocq-etal-2017}. Groundwater storage might become an increasingly important reservoir in an uncertain future. This has for example lead to research in understanding hte extent of freshwater reaches into the offshore environment \citep[e.g.][]{micallef-etal-2020}. In Taiwan for example the groundwater system extends up to 2\,km off shore, and up to around 40\,\% of precipitation that falls on the island enters the groundwater system \citep{calmels-etal-2011}. In the next century precipitation, which drives fluvial erosion, will likely change significantly due to the effects of global warming on the Earth system. To quote the IPCC's Fifth Assessment Report \cite{IPCC-policy-2014}:
 \begin{displayquote}
 In many regions, changing precipitation or melting snow and ice are altering hydrological systems, affecting water resources in terms of quantity and quality (medium confidence). Glaciers continue to shrink almost worldwide due to climate change (high confidence), affecting run-off and water resources downstream (medium confidence). Climate change is causing permafrost warming and thawing in high-latitude regions and in high-elevation regions (high confidence).
 \end{displayquote}
+The impact of such change on erosion is uncertain, especially when the surface and groundwater flows are treated separately by different communities \citep{berkowitz-2020}. I want to explore how observations from the subsurface can inform model development for coupling surface and groundwater flow within a landscape evolution model.
 
-The impact of such change on sediment storage and transport is uncertain. We can look to the past for evidence of how fluvial systems have responded, but at a time scale of hundreds of years it can become difficult to distinguish the importance of events such as individual storms. Furthermore, as I will expand upon below, there is a broad range of different numerical models developed to study landscape change on different time and spatial scales. One key process is being overlooked: groundwater. Beyond simple empirical laws for 1D infiltration, no numerical models to my knowledge include the impact of groundwater flow on the evolution of fluvial erosion and deposition. Yet rivers recharge by not only by surface run-off but from the ground \citep[e.g.][]{condon-etal-2020}, and river networks most likely grow as a network within the partially saturated ground \citep[e.g.][]{fan-etal-2019}. The challenge is to translate this concept into a testable model that can be applied to fluvial systems.
+We can look to the past for evidence of how fluvial systems have responded, but at a time scale of hundreds of years it can become difficult to distinguish the importance of events such as individual storms. Furthermore, as I will expand upon below, there is a broad range of different numerical models developed to study landscape change on different time and spatial scales. One key process is being overlooked: groundwater. Beyond simple empirical laws for 1D infiltration, no numerical models to my knowledge include the impact of groundwater flow on the evolution of fluvial erosion and deposition. Yet rivers recharge by not only by surface run-off but from the ground \citep[e.g.][]{condon-etal-2020}, and river networks most likely grow as a network within the partially saturated ground \citep[e.g.][]{fan-etal-2019}. The challenge is to translate this concept into a testable model that can be applied to fluvial systems.
 
 \section{Short-Term: Non-steady surface water flow}
 
@@ -20,13 +20,15 @@ where $k_{b}$ is a dimensional constant that parametrises bedrock erodability \c
 \frac{\partial z}{\partial t} = U + k\mathbf{q}_{w}^{m} \cdot \left(\nabla z\right)^{n},
 \label{eq:streampower}
 \end{equation}
-where the constant $k$ lumps together the other constants, and if $n\neq1$ equation \ref{eq:streampower} becomes non-linear. But in any landscape, the assumption of instantaneous sediment transport does not hold. The above model does not work. This raises a question: {\bf what are the key processes within landscape evolution?}
+where the constant $k$ lumps together the other constants, and if $n\neq1$ equation \ref{eq:streampower} becomes non-linear. But in any landscape, the assumption of instantaneous sediment transport does not hold. The above model does not work. This raises a question: \textbf{what are the key processes within landscape evolution?}
 
-The question of what processes dominates in landscape evolution becomes more important as the time scale of interested becomes shorter. This has lead tot he development of process based landscape evolution models (LEMs) for various applications \citep[see for example][]{temme-etal-2017}. I will briefly describe two that have been used to study landscape change over different time-scales:
+\subsubsection*{The FACSIMILE collaborative effort}
+
+The question of what processes dominates in landscape evolution becomes more important as the time scale of interested becomes shorter. This has lead to the development of process based landscape evolution models (LEMs) for various applications \citep[see for example][]{temme-etal-2017}. I will briefly describe two that have been used to study landscape change over different time-scales:
 \begin{itemize}
-\item[1] {\bf LAPSUS}
+\item[1] \textbf{LAPSUS}
 This is a process based model, where sediment is eroded or deposited down slope based on the transport capacity of the fluvial system \citep{schoorl-etal-2000}. It also includes processes such as soil formation and solid creep. It is a highly simplistic model with eight free parameters which can vary in space and time.
-\item[2] {\bf CAESAR-Lisflood}
+\item[2] \textbf{CAESAR-Lisflood}
 This is a process based model but of increased complexity compared to LAPSUS. It is based on a cellular automaton approach, but the laws acting on each cell are many and complex. Overland flow is modelled using the Lisflood model of \cite{bates-etal-2010}, and a simple infiltration is included using TOPMODEL \citep{beven-1979}. Subsequently sediment is transported down slope given the shear velocity of the flow is sufficiently high \citep{coulthard-etal-2013,vandeweil-etal-2007}. Other processes are included such as soil creation, lateral erosion, vegetation cover, etc., giving a total of 49 free parameters \citep{skinner-etal-2018}.
 \end{itemize}
 Given the number of processes typically modelled in LEMs it is difficult to assess which are significant and those to which there is no sensitivity. Recently sensitivity analysis has been carried for CAESAR-Lisflood out using a part of the full parameter space \citep{skinner-etal-2018}. The result of this sensitivity analysis is that the greatest sensitivity was to the sediment transport law, which is a function of the flow of water. This is a first order variable within the model, and it suggests second order aspects such as the degree of vegetation, soil creation are of lower importance.
@@ -44,12 +46,33 @@ Given the number of processes typically modelled in LEMs it is difficult to asse
 \label{fg:bergantes}
 \end{figure}
 
-To better understand the key processes I am involved in a large project where we plan to compare multiple LEMs on one single catchment, the Riu Bergantes in Spain (Figure \ref{fg:bergantes}). The aim is to take a series of different LEMs: fLEM \citep{armitage-2019}, TISC \citep{garcia-castellanos-2002}, LAPSUS \citep{schoorl-etal-2000}, and CAESAR-Lisflood \citep{coulthard-etal-2013}, and apply them to the same region and explore how they differ in terms of predicted topography and sediment flux. On a smaller scale, in collaboration with Sébastien Rohais, I am currently exploring how the model fLEM and CAESAR-Lisflood compare for modelling sediment transport within the Southern Gulf of Corinth. Key questions are:
+To better understand the key processes I am involved in a large project, FACSIMILE, where we plan to compare multiple LEMs on one single catchment, the Riu Bergantes in Spain (Figure \ref{fg:bergantes}). The aim is to take a series of different LEMs: fLEM \citep{armitage-2019}, TISC \citep{garcia-castellanos-2002}, LAPSUS \citep{schoorl-etal-2000}, and CAESAR-Lisflood \citep{coulthard-etal-2013}, and apply them to the same region and explore how they differ in terms of predicted topography and sediment flux.
+
+\subsubsection*{Steady and non-steady water flux}
+
+On a smaller scale, in collaboration with Sébastien Rohais as part of my current research at IFP énergies nouvelles, I am currently exploring how two very different models compare for simulating sediment transport within the Southern Gulf of Corinth. Here there is a history of large turbidite flows. During the last century for example marine cables have suffered significant damage related to turbidite flows \citep{heezen-etal-1966}. Over a longer timescale, the sediment deposits record change in facies that is directly related to the catchment given there is little to no aluvial plane. It is therefore an interesting place to explore the impact of model assumptions on steady and non-steady flow.
+
+Assuming no density change in the water column, then the mass balance can for the height of the water, $h$, can be written as,
+\begin{equation}
+\frac{\partial h}{\partial t} + \nabla \cdot \mathbf{q}_{w} = S
+\label{eq:water-mass}
+\end{equation}
+where $S$ is a source term. The water flux is the product of the flow height times the velocity, $\mathbf{q}_{s} = h\mathbf{u}$. Water flows due to its potential energy which is due to gravity, and is retarded by friction of the bed,
+\begin{equation}
+\frac{\partial \mathbf{u}}{\partial t} + \left( \mathbf{u} \cdot \nabla \right) \mathbf{u} = g \nabla\left( h + z \right) - \tau
+\end{equation}
+where $\tau$ is the shear stress acting on the river bed. These two equations do not have a simple analytical solution, and in order to be applied to river flow require simplifications. The inertial terms on the left hand side are for the acceleration of a particle of water. If it is assumed that the inertial terms do are not significant for geomorphological problems, the \emph{hydrostatic approximation}, then the momentum balance simplifies to the balance between friction on the bed and the pressure of the water column. It is subsequently assumed that the stress on the bed is given by,
+\begin{equation}
+\tau = K(h)|u|\mathbf{u}
+\label{eq:water-momentum}
+\end{equation}
+where $K(h)$ is a function of water height \citep{manning-1981}. In LEMs various methods have been used to solve for equations \ref{eq:water-mass} to \ref{eq:water-momentum}. I will focus on the non-steady state model Lisflood FP \citep{bates-2000} that has been integrated into the LEM CAESAR, where it gained the new name CAESAR-Lisflood \citep{coulthard-etal-2013}. At the other end of hte scale of LEMs, it is assumed that the energy slope (change in water height $h$) can be approximated by the topographic slope \citep[e.g.][]{schoorl-etal-2000,armitage-2019}, and water flows down slope distributed by the relative differene in slope \citep[e.g.][]{schoorl-etal-2000,armitage-2019}. This is the approach taken in fLEM for example \citep{armitage-2019}.
+
+I will therefore compare simulations from CAESAR-Lisflood (non-steady state) and fLEM (steady state). The key research questions are:
 \begin{itemize}
-    \item[1] What is the impact of large events vs. long-term low magnitude precipitation? It is often assumed that single large events such as floods lead to significant deposition within the sedimentary record. During the last century for example marine cables have suffered significant damage related to turbidite flows. Are these connected with onshore change in precipitation. The two models can be used to explore how precipitation is recorded at the catchment outlet. The advanteage of fLEM is that calculations are rapid, however the water flux term implicitly assumes a steady state flow. CAESAR-Lisflood uses the Lisflood implementation of non-steady water flux, however run times are long. The two models will be used to explore the immpact of the steady / non-steady water flow.
-    \item[2] How sensitive are models to the assumed thickness of transportable regolith? In fLEM it is implicitly assumed that there is an infinate supply of material for transport. However, within CAESAR-Lisflood the depth to bedrock can be defined. How will this control the landscape response?
+    \item[1] What is the impact of large events vs. long-term low magnitude precipitation? It is often assumed that single large events such as floods lead to significant deposition within the sedimentary record. The two models can be used to explore how precipitation is recorded at the catchment outlet. The advantage of fLEM is that calculations are rapid, however the water flux term implicitly assumes a steady state flow. CAESAR-Lisflood uses the Lisflood implementation of non-steady water flux, however run times are long. The two models will be used to explore the impact of the steady / non-steady water flow.
+    \item[2] How sensitive are models to the assumed thickness of transportable regolith? In fLEM it is implicitly assumed that there is an infinite supply of material for transport. However, within CAESAR-Lisflood the depth to bedrock can be defined. How will this control the landscape response?
 \end{itemize}
-  
 
 \section{Long-Term: Groundwater}
 
@@ -59,7 +82,7 @@ To better understand the key processes I am involved in a large project where we
     \caption{Left: Diagram showing the major interactions between surface run-off and ground-
 water. Precipitation is either routed down slope as surface water, or infiltrates into the
 critical zone and deeper groundwater reservoirs. Here it can return to the surface as seepage
-into the river network. Middle: The hypothetical conversion of physical properties into seismic paramters. Right: Figure from \cite{clements-2018}: Relating seismic wave speed temporal perturbation to ground water levels. Observed $dv/v$ stacked over all station pairs (black) with modeled $dv/v$ due to thermoelastic strain (dashed) removed compared with groundwater change (blue) in the Baldwin Park Key Well. Grey bars indicate lowest historical water levels of the Baldwin Park Key Well. Blue patches indicate times of drought.}
+into the river network. Middle: The hypothetical conversion of physical properties into seismic parameters. Right: Figure from \cite{clements-2018}: Relating seismic wave speed temporal perturbation to ground water levels. Observed $dv/v$ stacked over all station pairs (black) with modeled $dv/v$ due to thermo-elastic strain (dashed) removed compared with groundwater change (blue) in the Baldwin Park Key Well. Grey bars indicate lowest historical water levels of the Baldwin Park Key Well. Blue patches indicate times of drought.}
     \label{fg:groundwater}
 \end{figure}
 
@@ -82,7 +105,7 @@ In this project we will explore the impact of assumptions on the relationship be
 
 \subsection{Simulations to observations}
 
-Groundwater elevation can be measured directly from boreholes. Repeat measurements through time can give an indication of the response of the groundwater system to change in climatic conditions. Continuous monitoring of groundwater levels is possible from the cross-correlation of ambient seismic noise (Figure \ref{fg:groundwater}; \citealp{lecocq-etal-2017,clements-2018}). The saturation of the subsurface changes the seismic properties of the subsurface such that the temporal difference in seismic noise can be used to track change in groundwater saturation. In steep mountain catchments there is evidence that the majority of water enters the river systems via baseflow \citep{jasechko-etal-2016}. Furthermore, as climate changes and glaciers continue to melt, this melt water may increasingly enter the groundwater system rather than entre the river systems directly as run-off \citep{vincent-etal-2019}. Recent work from the Bothe Koshi catchment in the Himalayas would suggest the groundwater responds to monsoon precipitation in two steps, a rapid loss of groundwater due to baseflow post monsoon and a slow loss of groundwater due to evapotranspiration \citep{illien-etal-2020}.
+Groundwater elevation can be measured directly from boreholes. Repeat measurements through time can give an indication of the response of the groundwater system to change in climatic conditions. Continuous monitoring of groundwater levels is possible from the cross-correlation of ambient seismic noise (Figure \ref{fg:groundwater}; \citealp{lecocq-etal-2017,clements-2018}). The saturation of the subsurface changes the seismic properties of the subsurface such that the temporal difference in seismic noise can be used to track change in groundwater saturation. In steep mountain catchments there is evidence that the majority of water enters the river systems via baseflow \citep{jasechko-etal-2016}. Furthermore, as climate changes and glaciers continue to melt, this melt water may increasingly enter the groundwater system rather than enter the river systems directly as run-off \citep{vincent-etal-2019}. Recent work from the Bothe Koshi catchment in the Himalayas would suggest the groundwater responds to monsoon precipitation in two steps, a rapid loss of groundwater due to baseflow post monsoon and a slow loss of groundwater due to evapotranspiration \citep{illien-etal-2020}.
 
 \begin{figure}
     \centering
