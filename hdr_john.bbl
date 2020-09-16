@@ -216,6 +216,17 @@ Calmels, D., Galy, A., Hovius, N., Bickle, M., West, A.~J., Chen, M.~C., and
 \newblock {\em Earth and Plantary Science Letters}, 303:48--58.
 \newblock doi: 10.1016/j.epsl.2010.12.032.
 
+\bibitem[Catuneanu et~al., 2009]{catuneanu-etal-2009}
+Catuneanu, O., Abreu, V., Bhattacharya, J.~P., Blum, M.~D., Dalrymple, R.~W.,
+  Eriksson, P.~G., Fielding, C.~R., Fisher, W.~L., Galloway, W.~E., Gibling,
+  M.~R., Gilesk, K.~A., Holbrook, J.~M., Jordan, R., Kendall, C.~G., Macurda,
+  B., Martinsen, O.~J., Miall, A.~D., Neal, J.~E., Nummeda, D., Pomar, L.,
+  Posamentier, H.~W., Pratt, B.~R., Sarg, J.~F., Shanley, K.~W., Steel, R.~J.,
+  Strasser, A., Tucker, M.~E., and Winker, C. (2009).
+\newblock Towards the standardization of sequence stratigraphy.
+\newblock {\em Earth-Science Reviews}, 92:1--33.
+\newblock doi: 10.1016/j.earscirev.2008.10.003.
+
 \bibitem[Chambers et~al., 2019]{chambers-etal-2019}
 Chambers, E.~L., Harmon, N., Keir, D., and Rychert, C.~A. (2019).
 \newblock Using ambient noise to image the {N}orthern {E}ast {A}frican {R}ift.
@@ -290,14 +301,6 @@ Davaille, A. and Vatteville, J. (2005).
 \newblock On the transient nature of mantle plumes.
 \newblock {\em Geophysical Research Letters}, (L14309).
 \newblock doi: 10.1029/2005GL023029.
-
-\bibitem[Davy et~al., 2017]{davy-etal-2017}
-Davy, P., Croissant, T., and Lague, D. (2017).
-\newblock A precipiton method to calculate river hydrodynamics, with
-  applications toflood prediction, landscape evolution models, and braiding
-  instabilities.
-\newblock {\em Journal of Geophyscial Research}, 122:1491--1512.
-\newblock doi: 10.1002/2016JF004156.
 
 \bibitem[Dietrich et~al., 2003]{dietrich-etal-2003}
 Dietrich, W.~E., Bellugi, D.~G., Sklar, L.~S., Srock, J.~D., Heimsath, A.~M.,
@@ -713,6 +716,15 @@ Paola, C. and Seal, R. (1995).
 \newblock {\em Water Resources Research}, 31:1395--1407.
 \newblock doi: 10.1029/94WR02975.
 
+\bibitem[P{\'e}rez-Gussiyn{\'e} et~al., 2020]{perez-gussinye-etal-2020}
+P{\'e}rez-Gussiyn{\'e}, M., Andrés-Mart{\'i}nez, M., Araujo, M., Xin, Y.,
+  Armitage, J., and Morgan, J.~P. (2020).
+\newblock Lithospheric strength and rift migration controls on synrift
+  stratigraphy and breakup unconformities at rifted margins: Examples from
+  numerical models, the {A}tlantic and {S}outh {C}hina {S}ea margins.
+\newblock {\em Tectonics}, ?(e2020TC006255).
+\newblock doi:.
+
 \bibitem[Petersen et~al., 2015]{petersen-etal-2015}
 Petersen, K.~D., Armitage, J.~J., Nielsen, S.~B., and Thybo, H. (2015).
 \newblock Mantle temperature as a control on the time scale of thermal
@@ -900,12 +912,28 @@ Tosi, N. and Yuen, D.~A. (2011).
 \newblock {\em Earth and Planetary Science Letters}, 312:348--359.
 \newblock doi: 10.1016/j.epsl.2011.10.015.
 
+\bibitem[Vail et~al., 1977]{vail-etal-1977}
+Vail, P.~R., {Mitchum Jr.}, R.~M., Todd, R.~G., Widmier, J.~M., {Thompson III},
+  S., Sangee, J.~B., Bubb, J.~N., and Hatlelid, W.~G. (1977).
+\newblock Seismic stratigraphy and global changes of sea--level.
+\newblock In Payton, C.~E., editor, {\em Seismic Stratigraphy–Applications to
+  Hydrocarbon Exploration}, volume~26 of {\em American Association of Petroleum
+  Geologists Memoir}, pages 49--212. AAPG.
+
 \bibitem[{Van de Weil} et~al., 2007]{vandeweil-etal-2007}
 {Van de Weil}, M.~J., Coulthard, T., Macklin, M., and Lewin, J. (2007).
 \newblock Embedding reach‐scale fluvial dynamics within the {CAESAR} cellular
   automaton landscape evolution model.
 \newblock {\em Geomorphology}, 90:283--301.
 \newblock doi: 10.1016/j.geomorph.2006.10.024.
+
+\bibitem[{Van Wagoner} et~al., 1990]{vanwagoner-etal-1990}
+{Van Wagoner}, J.~C., Mitchum, R.~M., Campion, K.~M., and Rahmanian, V.~D.
+  (1990).
+\newblock {\em Siliciclastic sequence stratigraphy in well logs, cores, and
+  outcrops}, volume~7 of {\em Methods in Exploration}.
+\newblock Association of Petroleum Geologists.
+\newblock 55 p.
 
 \bibitem[Vincent et~al., 2019]{vincent-etal-2019}
 Vincent, A., Violette, S., and Aoalgeirsdottir, G. (2019).

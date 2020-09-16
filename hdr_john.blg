@@ -3,47 +3,46 @@ Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
 The top-level auxiliary file: hdr_john.aux
 The style file: apalike.bst
 Database file #1: ../../ref.bib
-Warning--I didn't find a database entry for "schoorl-etal-2001"
 Warning--there's a number but no volume in davaille-2005
-You've used 134 entries,
+You've used 137 entries,
             1935 wiz_defined-function locations,
-            1313 strings with 31233 characters,
-and the built_in function-call counts, 59347 in all, are:
-= -- 5708
-> -- 2917
-< -- 63
-+ -- 1058
-- -- 1001
-* -- 5229
-:= -- 10520
-add.period$ -- 514
-call.type$ -- 134
-change.case$ -- 1156
-chr.to.int$ -- 129
-cite$ -- 135
-duplicate$ -- 1959
-empty$ -- 3842
-format.name$ -- 1199
-if$ -- 11581
+            1333 strings with 32386 characters,
+and the built_in function-call counts, 61639 in all, are:
+= -- 5892
+> -- 3145
+< -- 66
++ -- 1143
+- -- 1088
+* -- 5473
+:= -- 10941
+add.period$ -- 526
+call.type$ -- 137
+change.case$ -- 1213
+chr.to.int$ -- 132
+cite$ -- 138
+duplicate$ -- 2013
+empty$ -- 3926
+format.name$ -- 1289
+if$ -- 12000
 int.to.chr$ -- 6
 int.to.str$ -- 0
-missing$ -- 134
-newline$ -- 776
-num.names$ -- 418
-pop$ -- 779
+missing$ -- 138
+newline$ -- 793
+num.names$ -- 429
+pop$ -- 837
 preamble$ -- 1
-purify$ -- 1155
+purify$ -- 1213
 quote$ -- 0
-skip$ -- 1499
+skip$ -- 1537
 stack$ -- 0
-substring$ -- 4050
-swap$ -- 210
-text.length$ -- 13
+substring$ -- 4092
+swap$ -- 224
+text.length$ -- 16
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 804
+type$ -- 820
 warning$ -- 1
-while$ -- 393
+while$ -- 402
 width$ -- 0
-write$ -- 1963
-(There were 2 warnings)
+write$ -- 2008
+(There was 1 warning)
