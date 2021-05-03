@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2020.3.2)  3 FEB 2021 12:00
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2020.3.2)  3 MAY 2021 12:28
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1275,7 +1275,7 @@ Overfull \hbox (25.6073pt too wide) in paragraph at lines 9--16
  []
 
 
-Overfull \hbox (48.27242pt too wide) in paragraph at lines 57--64
+Overfull \hbox (51.33278pt too wide) in paragraph at lines 57--64
  [][][] 
  []
 
@@ -4753,7 +4753,7 @@ texmf-dist/fonts/type1/urw/helvetic/uhvr8a.pfb></work/armitagj/texlive/texmf-di
 st/fonts/type1/urw/times/utmb8a.pfb></work/armitagj/texlive/texmf-dist/fonts/ty
 pe1/urw/times/utmr8a.pfb></work/armitagj/texlive/texmf-dist/fonts/type1/urw/tim
 es/utmri8a.pfb>
-Output written on hdr_john.pdf (214 pages, 72399662 bytes).
+Output written on hdr_john.pdf (214 pages, 72400093 bytes).
 PDF statistics:
  4401 PDF objects out of 5155 (max. 8388607)
  3067 compressed objects within 31 object streams
